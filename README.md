@@ -2,7 +2,7 @@
 
  
 
-Ocean Explorer ist das Forschungsprojekt der Heldele Robotics für die Submerged Season der FIRST® LEGO® League 2024-2025. Ziel ist die Entwicklung einer autonomen Sonde, die Unterwasserströmungen und andere wichtige Daten erfasst, um das Verständnis von Meeresbewegungen zu verbessern. 
+Der Ocean Explorer ist das Forschungsprojekt der Heldele Robotics für die Submerged Season der FIRST® LEGO® League 2024-2025. Ziel ist die Entwicklung einer autonomen Sonde, die Wasserströmungen und andere wichtige Daten unter Wasser erfasst, um das Verständnis über Meeresbewegungen und Lebensräumen von Meerestieren zu verbessern. 
 
  
 
